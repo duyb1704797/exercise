@@ -1,2 +1,3 @@
 #/bin/usr/python
-print "zzzzzzzz"
+print "aaaaaa"
+print "xxxxxxxx"
